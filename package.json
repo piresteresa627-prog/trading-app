@@ -1,0 +1,16 @@
+{
+  "name": "trading-app",
+  "version": "1.0.0",
+  "description": "Trading App Project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["trading", "app"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
